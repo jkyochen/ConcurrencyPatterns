@@ -7,6 +7,8 @@
 
 ### Thread Local Storage
 
++ Java ThreadLocal
+
 ### Guarded Suspension
 
 ### Balking
@@ -35,4 +37,4 @@
 
 ## Reference
 
-+ [Java并发编程实战](https://time.geekbang.org/column/intro/159)
++ [Java Concurrency Programming](https://time.geekbang.org/column/intro/159)
